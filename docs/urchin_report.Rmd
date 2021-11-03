@@ -1,7 +1,7 @@
 ---
-title: "Oursins violets"
-author: '....'
-date: "09/10/2020"
+title: "Biométrie de l'oursin violet"
+author: '___'
+date: "___"
 output: html_document
 ---
 
@@ -9,34 +9,36 @@ output: html_document
 SciViews::R
 ```
 
-# Introduction
+<!--# Comme ce travail est réalisé en binômes, partagez-vous le travail après vous être mis d'accord sur les éléments du notebook à reprendre dans ce rapport. En cas de conflit GitHub, résolvez la situation immédiatement. Veillez à ce que votre rapport compile sans erreurs en un fichier final HTML. -->
 
-<!---
-Présentez les organismes de cette étude. Vous devez être synthétique entre 5 et 10 phrases.
---->
+## Introduction
 
-# But
+<!--% Présentez les organismes et le cadre de cette étude. Vous devez être synthétique (entre 5 et 10 phrases). -->
 
-<!---
-Présentez votre but.Vous devez être synthétique entre 2 et 5 phrases. 
 
-Un lecteur doit être capable de comprendre l'intérêt de votre travail après avoir lu l'introduction et le but.
---->
 
-# M&M
+## But
 
-<!---
-Présentez les outils informatiques que vous utilisez. Soyez précis.
----->
+<!--% Exposez votre but. À quelle question biologique tentez-vous de répondre ici ? Vous devez être synthétique (entre 1 et 3 phrases). -->
 
-# Résultats et discussion
+<!--# Un lecteur doit être capable de comprendre l'intérêt de votre travail après avoir lu l'introduction et le but. -->
 
-<!----
-Cette section doit proposer une analyse qui provient du notebook de ce projet. Utilisez l'analyse que vous considérez comme étant la plus réussie.
----->
 
-# Conclusion
 
-<!---
-Proposez une conclusion à votre travail de maximum 3 phrases.
---->
+## Matériel et méthodes
+
+<!--% Présentez le matériel biologique et les outils informatiques que vous utilisez. Soyez précis (2 à 3 paragraphes). -->
+
+
+
+## Résultats
+
+<!--% Reprenez ici les éléments que vous jugez importants et utiles depuis votre carnet de notes (notebook) en relation avec le but que vous vous êtes fixé. -->
+
+
+
+## Discussion et conclusion
+
+<!--% Discutez les résultats présentés plus haut et proposez une conclusion à votre travail, en 3 à 5 paragraphes succints. -->
+
+

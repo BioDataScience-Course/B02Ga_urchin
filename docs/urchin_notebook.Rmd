@@ -1,7 +1,7 @@
 ---
-title: 'Oursins violets : notebook'
-author: '....'
-date: "09/10/2020"
+title: 'Biométrie de l'oursin violet (carnet de notes)'
+author: '___'
+date: "___"
 output: html_document
 ---
 
@@ -9,28 +9,38 @@ output: html_document
 SciViews::R
 ```
 
-# Introduction 
+## Introduction 
 
-<!---- 
- Introduisez en quelques phrases le sujet dont traite votre notebook. Vous avez la liberté de décider la thématique qui vous intéresse sur base des données mises à votre disposition.
----->
+<!--% Introduisez en quelques phrases le sujet dont traite votre carnet de notes. Vous avez la liberté de décider la thématique qui vous intéresse sur base des données mises à votre disposition. Ceci n'est pas une introduction formelle. C'est plutôt un mémo qui vous permet de présenter succinctement de quoi il s'agit (à vous-même plus tard, ou à d'autres). -->
 
-# Analyses
+<!--# Comme vous travaillez en binôme, vous allez vous partager le travail. Évitez autant que possible d'éditer simultanément les mêmes sections du document... et si des conflits se produisent, résolvez-les immédiatement. -->
 
-<!---
-Un notebook est une succession de graphiques, de tableaux ou encore d'analyses qui traite du sujet que vous avez décidé de traiter. N'hésitez à pas à tester plusieurs variables. 
+## Résultats
 
-Vous devez proposer au minimum 4 graphiques et au maximum 10 graphiques afin d'explorer les données.
+<!--% Votre carnet de notes se remplira d'une série de graphiques, de tableaux et d'analyses statistiques commentés au fur et à mesure de vos explorations du sujet choisi. N'hésitez à pas à tester des pistes différentes. --> 
 
-Vous devez proposer au moins 2 modèles pour chacune des sections ci-dessous. Vous ne pouvez pas dépasser les 4 modèles par section.
---->
 
-## Exploration des données
+### Exploration des données
 
-## Régression linéaire simple
+<!--% Proposez entre 4 et 10 graphiques (max) afin d'explorer les données. -->
 
-## Régression linéaire multiple
 
-## Régression polynomiale
+### Régression linéaire simple
 
-## Modèle linéaire
+<!--% Proposez au moins deux modèles différents ici et notez vos observations à la suite. -->
+
+
+### Régression linéaire multiple
+
+<!--% Proposez au moins deux modèles différents ici et notez vos observations à la suite. -->
+
+
+### Régression polynomiale
+
+<!--% Proposez au moins deux modèles différents ici et notez vos observations à la suite. -->
+
+
+### Modèle linéaire
+
+<!--% Proposez au moins deux modèles différents ici et notez vos observations à la suite. -->
+
