@@ -1,0 +1,36 @@
+---
+title: 'Oursins violets : notebook'
+author: '....'
+date: "09/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+```
+
+# Introduction 
+
+<!---- 
+ Introduisez en quelques phrases le sujet dont traite votre notebook. Vous avez la liberté de décider la thématique qui vous intéresse sur base des données mises à votre disposition.
+---->
+
+# Analyses
+
+<!---
+Un notebook est une succession de graphiques, de tableaux ou encore d'analyses qui traite du sujet que vous avez décidé de traiter. N'hésitez à pas à tester plusieurs variables. 
+
+Vous devez proposer au minimum 4 graphiques et au maximum 10 graphiques afin d'explorer les données.
+
+Vous devez proposer au moins 2 modèles pour chacune des sections ci-dessous. Vous ne pouvez pas dépasser les 4 modèles par section.
+--->
+
+## Exploration des données
+
+## Régression linéaire simple
+
+## Régression linéaire multiple
+
+## Régression polynomiale
+
+## Modèle linéaire

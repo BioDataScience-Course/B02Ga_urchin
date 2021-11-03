@@ -1,0 +1,42 @@
+---
+title: "Oursins violets"
+author: '....'
+date: "09/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+```
+
+# Introduction
+
+<!---
+Présentez les organismes de cette étude. Vous devez être synthétique entre 5 et 10 phrases.
+--->
+
+# But
+
+<!---
+Présentez votre but.Vous devez être synthétique entre 2 et 5 phrases. 
+
+Un lecteur doit être capable de comprendre l'intérêt de votre travail après avoir lu l'introduction et le but.
+--->
+
+# M&M
+
+<!---
+Présentez les outils informatiques que vous utilisez. Soyez précis.
+---->
+
+# Résultats et discussion
+
+<!----
+Cette section doit proposer une analyse qui provient du notebook de ce projet. Utilisez l'analyse que vous considérez comme étant la plus réussie.
+---->
+
+# Conclusion
+
+<!---
+Proposez une conclusion à votre travail de maximum 3 phrases.
+--->
